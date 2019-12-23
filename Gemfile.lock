@@ -1,14 +1,10 @@
 GEM
   specs:
-    heroku-deflater (0.6.3)
-      rack (>= 1.4.5)
-    rack (2.0.8)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  heroku-deflater
 
 BUNDLED WITH
-   1.17.2
+   1.17.1
